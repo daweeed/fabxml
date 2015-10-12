@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Racine du flux -->
+<projects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" src="" xsi:noNamespaceSchemaLocation="fabxml-xsd.xsd">
+  <!-- Racine de la fiche projet : id unique, status : "finished" ou "inProgress; URL d'origine de la fiche projet -->
+  <project id="" status="" URL="">
+    <!-- Nom du projet -->
+    <name>
+      </name>
+    <!-- Auteur du projet -->
+    <author>
+      <!-- Nom de l'auteur -->
+      <name>
+        </name>
+      <!-- mail de l'auteur -->
+      <mail>
+        </mail>
+    </author>
+    <!-- Date de creation -->
+    <creationDate>
+    </creationDate>
+    <!-- Description du projet -->
+    <description>
+    </description>
+    <!-- Fablab ou le projet a été conçu -->
+    <fablab>
+    </fablab>
+    <!-- Fichiers ou ressources extérieurs -->
+    <attachement>
+      <!-- liens exterieurs -->
+      <link>
+      </link>
+      <!-- image d'illustration de la fiche projet -->
+      <illustrations>
+      </illustrations>
+      <!-- Fichiers sources pour machine outils -->
+      <cadFiles>
+      </cadFiles>
+    </attachement>
+    <!-- Licence de la documentation -->
+    <licence>
+    </licence>
+    <!-- Matériaux utilisés pour le projet -->
+    <materials>
+    </materials>
+    <!-- Compétences nécessaires pour réaliser ce projet -->
+    <skills>
+    </skills>
+    <!-- Etapes de fabrication -->
+    <steps>
+      <!-- Etapes d'inspiration -->
+      <inspiration>
+      </inspiration>
+      <!-- Etapes de conception -->
+      <conception>
+      </conception>
+      <!-- Etapes de réalisation/fabrication -->
+      <realisation>
+      </realisation>
+      <!-- Diffucltés rencontrées -->
+      <difficulties>
+      </difficulties>
+    </steps>
+    <!-- Outils utilisés -->
+    <tools>
+    </tools>
+    <!--  -->
+    <tags>
+    </tags>
+  </project>
+</projects>
