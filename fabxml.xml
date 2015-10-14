@@ -11,13 +11,17 @@
       <!-- Nom de l'auteur -->
       <name>
         </name>
-      <!-- mail de l'auteur -->
-      <mail>
-        </mail>
+      <!-- contact de l'auteur -->
+      <contact>
+        </contact>
     </author>
     <!-- Date de creation -->
     <creationDate>
     </creationDate>
+    <!-- Date de dernière modification -->
+    <lastModification>
+      
+    </lastModification>
     <!-- Description du projet -->
     <description>
     </description>
@@ -30,7 +34,7 @@
       <link>
       </link>
       <!-- image d'illustration de la fiche projet -->
-      <illustrations>
+      <illustrations >
       </illustrations>
       <!-- Fichiers sources pour machine outils -->
       <cadFiles>
@@ -47,18 +51,12 @@
     </skills>
     <!-- Etapes de fabrication -->
     <steps>
-      <!-- Etapes d'inspiration -->
-      <inspiration>
-      </inspiration>
-      <!-- Etapes de conception -->
-      <conception>
-      </conception>
-      <!-- Etapes de réalisation/fabrication -->
-      <realisation>
-      </realisation>
-      <!-- Difficultés rencontrées -->
-      <difficulties>
-      </difficulties>
+      <!-- Etape -->
+      <step type="">
+        <!-- sous-étape -->
+        <step type="">
+        </step>
+      </step>
     </steps>
     <!-- Outils utilisés -->
     <tools>
