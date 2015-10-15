@@ -52,9 +52,9 @@
     <!-- Etapes de fabrication -->
     <steps>
       <!-- Etape -->
-      <step type="">
+      <step label="" type="">
         <!-- sous-étape -->
-        <step type="">
+        <step label="" type="">
         </step>
       </step>
     </steps>
