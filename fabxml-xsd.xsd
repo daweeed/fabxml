@@ -12,7 +12,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element name="name" type="xs:string"/>
-        <xs:element ref="author"/>
+        <xs:element ref="authors"/>
         <xs:element name="creationDate" type="xs:string"/>
         <xs:element name="lastModification" type="xs:string"/>
         <xs:element name="description" type="xs:string"/>
@@ -27,7 +27,15 @@
       </xs:sequence>
       <xs:attribute name="URL" type="xs:string" use="required"/>
       <xs:attribute name="id" type="xs:string" use="required"/>
+      <xs:attribute name="lang" type="xs:string" use="required"/>
       <xs:attribute name="status" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="authors">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="author"/>
+      </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="author">

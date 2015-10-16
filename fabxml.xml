@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Racine du flux -->
 <projects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" src="" xsi:noNamespaceSchemaLocation="fabxml-xsd.xsd">
   <!-- Racine de la fiche projet : id unique, status : "finished" ou "inProgress; URL d'origine de la fiche projet -->
   <project id="" status="" URL="" lang="">
     <!-- Nom du projet -->
     <name>
-      </name>
+    </name>
     <!-- Auteur(s) du projet -->
     <authors>
       <author>
