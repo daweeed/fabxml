@@ -6,15 +6,17 @@
     <!-- Nom du projet -->
     <name>
       </name>
-    <!-- Auteur du projet -->
-    <author>
-      <!-- Nom de l'auteur -->
-      <name>
+    <!-- Auteur(s) du projet -->
+    <authors>
+      <author>
+        <!-- Nom de l'auteur -->
+        <name>
         </name>
-      <!-- contact de l'auteur -->
-      <contact>
-        </contact>
-    </author>
+        <!-- contact de l'auteur -->
+        <contact>
+          </contact>
+      </author>
+    </authors>
     <!-- Date de creation -->
     <creationDate>
     </creationDate>
