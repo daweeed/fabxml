@@ -33,13 +33,13 @@
     <!-- Fichiers ou ressources extérieurs -->
     <attachement>
       <!-- liens exterieurs -->
-      <link>
+      <link type="" >
       </link>
       <!-- image d'illustration de la fiche projet -->
       <illustrations >
       </illustrations>
       <!-- Fichiers sources pour machine outils -->
-      <cadFiles>
+      <cadFiles type="" mime="" >
       </cadFiles>
     </attachement>
     <!-- Licence de la documentation -->
