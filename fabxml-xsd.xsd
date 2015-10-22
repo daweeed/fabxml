@@ -49,10 +49,21 @@
   <xs:element name="attachement">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="link" type="xs:string"/>
+        <xs:element ref="link"/>
         <xs:element name="illustrations" type="xs:string"/>
-        <xs:element name="cadFiles" type="xs:string"/>
+        <xs:element ref="cadFiles"/>
       </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="link">
+    <xs:complexType>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cadFiles">
+    <xs:complexType>
+      <xs:attribute name="mime" type="xs:string" use="required"/>
+      <xs:attribute name="type" type="xs:string" use="required"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="steps">
