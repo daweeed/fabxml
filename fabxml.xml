@@ -31,7 +31,7 @@
     <fablab>
     </fablab>
     <!-- Fichiers ou ressources extérieurs -->
-    <attachement>
+    <attachment>
       <!-- liens exterieurs -->
       <link type="" >
       </link>
@@ -41,7 +41,7 @@
       <!-- Fichiers sources pour machine outils -->
       <cadFiles type="" mime="" >
       </cadFiles>
-    </attachement>
+    </attachment>
     <!-- Licence de la documentation -->
     <licence>
     </licence>
