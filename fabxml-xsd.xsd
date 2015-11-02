@@ -17,7 +17,7 @@
         <xs:element name="lastModification" type="xs:string"/>
         <xs:element name="description" type="xs:string"/>
         <xs:element name="fablab" type="xs:string"/>
-        <xs:element ref="attachement"/>
+        <xs:element ref="attachment"/>
         <xs:element name="licence" type="xs:string"/>
         <xs:element name="materials" type="xs:string"/>
         <xs:element name="skills" type="xs:string"/>
